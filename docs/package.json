@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-akceli-schema",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Shawn",
+    "email": "sprov03@gmail.com"
+  },
+  "repository": "/vuepress-akceli-schema",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
